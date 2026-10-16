@@ -1,0 +1,32 @@
+{
+  "symbols": {
+    "NQ": {
+      "from": "2026-07-06",
+      "to": "2026-07-14",
+      "bars": 9660,
+      "file": "data/NQ_1m.json",
+      "sizeMB": 0.448
+    },
+    "GC": {
+      "from": "2026-07-06",
+      "to": "2026-07-14",
+      "bars": 9627,
+      "file": "data/GC_1m.json",
+      "sizeMB": 0.387
+    }
+  },
+  "timeframes": [
+    "1m",
+    "2m",
+    "3m",
+    "5m",
+    "30m",
+    "1h",
+    "4h",
+    "1d"
+  ],
+  "note": "Sample continuous 1m OHLC for public Traderoad Replay demo",
+  "format": "columnar",
+  "from": "2026-07-06",
+  "to": "2026-07-14"
+}
